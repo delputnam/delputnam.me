@@ -2,8 +2,7 @@
 categories: null
 date: 2015-03-01T08:30:20-08:00
 description: Just a picture of the pier behind Hilton Elementary.
-draft: false
-publishdate: null
+draft: true
 redirect: null
 slug: null
 tags: ["James River"]
