@@ -1,21 +1,21 @@
 <!doctype html>
 <html>
         <head>
-        <base href="http://delputnam.me/">
+        <base href="http://localhost:1313/">
         <title>Del Putnam</title>
-        <link rel="canonical" href="http://delputnam.me/">
-        <link href="http://delputnam.me/index.xml" rel="alternate" type="application/rss+xml" title="Del Putnam" />
+        <link rel="canonical" href="http://localhost:1313/">
+        <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Del Putnam" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="apple-touch-icon" href="http://delputnam.me/media/logo_128.png">
-        <link rel="shortcut icon" href="http://delputnam.me/media/logo_128.png">
+        <link rel="apple-touch-icon" href="http://localhost:1313/media/logo_128.png">
+        <link rel="shortcut icon" href="http://localhost:1313/media/logo_128.png">
         <meta name="description" content="Answering all your questions, one day at a time."/>
 
         
         <meta property="og:title" content="Del Putnam" />
 <meta property="og:description" content="Answering all your questions, one day at a time." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://delputnam.me/" />
+<meta property="og:url" content="http://localhost:1313/" />
 
 
 
@@ -47,7 +47,7 @@
 		<link href='//fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
 		
-		<link rel="stylesheet" type="text/css" href="http://delputnam.me/css/styles.css">
+		<link rel="stylesheet" type="text/css" href="http://localhost:1313/css/styles.css">
 
 		
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -66,13 +66,13 @@
                         <div class="list-group">
                             
                             
-                            <a href="http://delputnam.me/" class="list-group-item active">
+                            <a href="http://localhost:1313/" class="list-group-item active">
                                 <i class='fa fa-home'></i>
                                 <span>Home</span>
                                 <i class="fa fa-angle-right"></i>
                             </a>
                             
-                            <a href="http://delputnam.me/about" class="list-group-item">
+                            <a href="http://localhost:1313/about" class="list-group-item">
                                 <i class="fa fa-info-circle"></i>
                                 <span>About Me</span>
                                 <i class="fa fa-angle-right"></i>
@@ -85,11 +85,11 @@
                         <div type="button" id="menu-button" class="btn btn-default pull-right" data-toggle="show-menu"><i class="fa fa-bars"></i></div>
                         <div class="row">
                             <div class="col-sm-2 col-md-offset-2 logo-wrap">
-                                <a href="http://delputnam.me/"><img src="http://delputnam.me/media/logo_large.png"></a>
+                                <a href="http://localhost:1313/"><img src="http://localhost:1313/media/logo_large.png"></a>
                             </div>
                             <div class="col-md-6 col-sm-8 title-wrap">
                                 <h1>
-                                    <a href="http://delputnam.me/">Del Putnam</a>
+                                    <a href="http://localhost:1313/">Del Putnam</a>
                                 </h1>
                             </div>
                         </div>
@@ -119,11 +119,11 @@
                             Sunday, 1 March 2015
                         </div>
                         <div class="text">
-                            <h2><a class="permalink" href="http://delputnam.me/photo/hilton_pier/"><span itemprop="name">The Hilton Pier</span></a></h2>
+                            <h2><a class="permalink" href="http://localhost:1313/photo/hilton_pier/"><span itemprop="name">The Hilton Pier</span></a></h2>
                            <div itemprop="articleBody"><p>
 <figure >
     
-        <img src="http://delputnam.me/media/images/hilton_pier.jpg" />
+        <img src="http://localhost:1313/media/images/hilton_pier.jpg" />
     
     
     <figcaption>
@@ -153,7 +153,7 @@
                             Saturday, 21 February 2015
                         </div>
                         <div class="text">
-                            <h2><a class="permalink" href="http://delputnam.me/post/first/"><span itemprop="name">Lorem Ipsum</span></a></h2>
+                            <h2><a class="permalink" href="http://localhost:1313/post/first/"><span itemprop="name">Lorem Ipsum</span></a></h2>
                            <div itemprop="articleBody"><p>Maecenas sed diam<sup class="footnote-ref" id="fnref:e8fb9c67eba912c72729806db31eaa1b:whatevs"><a rel="footnote" href="#fn:e8fb9c67eba912c72729806db31eaa1b:whatevs">1</a></sup> eget risus varius blandit sit amet non magna. Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla.</p>
 
 <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
@@ -204,5 +204,8 @@
         	
 		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-    </body>
+    <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
