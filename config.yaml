@@ -30,8 +30,8 @@ taxonomies:
     series: "series"
 
 permalinks:
-    post: "/:year/:month/:day/:slug/"
-    photo: "/:year/:month/:day/:slug/"
+    post: "/:year/:month/:day/:title/"
+    photo: "/:year/:month/:day/:title/"
 
 menu:
     main:
