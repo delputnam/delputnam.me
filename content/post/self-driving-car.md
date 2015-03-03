@@ -13,7 +13,7 @@ title: Self-driving cars
 
 Step 1: Weld a [cow-catcher](http://en.wikipedia.org/wiki/Pilot_(locomotive) to the front of an SUV.  
 Step 2: Hold the steering wheel in place with a bungee cord.  
-Step 3: Hold down the accelerator with a brick.^[Note: Don't forget to point the car in the direction you wanted to go before engaging the brick.]  
+Step 3: Put a brick on the accelerator.^[Note: Don't forget to point the car in the direction you wanted to go before engaging the brick.]  
 
 I know what you're thinking. Yes, you will likely kill at least one person doing this. Yes, that person may be you. Yes, the car *may* be totalled after each drive. And, yes, there are legal and ethical issues with this sort of thing. But you can't make progress without pushing the boundaries of what's acceptable.
 
