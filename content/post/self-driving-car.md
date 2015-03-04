@@ -12,8 +12,16 @@ title: Self-driving cars
 **A:** It's an important question. Everyone is building self driving cars. Even Apple is rumored to be building a car which is also expected to be self-driving. <sup>[citation needed]</sup> But while BMW wastes time on things like [cars that automatically drive themselves in circles](http://youtu.be/Ex7BdXXul80) and Google's cars take great care to avoid colliding with other cars, pedestrians, trees, etc., I am taking the "simpler is better" approach:
 
 Step 1: Weld a [cow-catcher](http://en.wikipedia.org/wiki/Pilot_(locomotive) to the front of an SUV.  
+
+{{< figure src="media/images/self-driving-car/cow-catcher.jpg" title="A cow-catcher properly installed on an SUV." >}}
+
 Step 2: Hold the steering wheel in place with a bungee cord.  
+
+{{< figure src="media/images/self-driving-car/bungee.jpg" title="Automatic “steering” with a bungee cord." >}}
+
 Step 3: Put a brick on the accelerator.^[Note: Don't forget to point the car in the direction you wanted to go before engaging the brick.]  
+
+{{< figure src="media/images/self-driving-car/brick.jpg" title="Speed “control” using a brick." >}}
 
 I know what you're thinking. Yes, you will likely kill at least one person doing this. Yes, that person may be you. Yes, the car *may* be totalled after each drive. And, yes, there are legal and ethical issues with this sort of thing. But you can't make progress without pushing the boundaries of what's acceptable.
 
